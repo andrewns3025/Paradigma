@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "X2BtMAAPf5yI7benkXvJMS0nxe6tUuM4T1d4Mrlb+Dg=",
+  "Source": "TecnicaApi.WebApi",
+  "BasePath": "_content/TecnicaApi.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

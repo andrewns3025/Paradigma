@@ -1,0 +1,17 @@
+[
+  {
+    "Code": 1,
+    "Type": 4,
+    "Message": "Resultado con exito"
+  },
+  {
+    "Code": 2,
+    "Type": 3,
+    "Message": "Ocurrio un error interno, por favor comunicarse con el administrador."
+  },
+  {
+    "Code": 3,
+    "Type": 1,
+    "Message": "No se encuentra el registro."
+  }
+]

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TecnicaApi.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:TecnicaApi.WebApi.Controllers.LoginController.Authorization(TecnicaApi.Models.PayLoads.Login.LoginLoad)">
+            <summary>
+            Metodo para el inicio de sesión con el token generado por microsoft
+            </summary>
+            <param name="loginLoad"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TecnicaApi.WebApi.Controllers.PokemonsController.GetPokemons(System.Int32,System.Int32)">
+            <summary>
+            Obtiene la lista de pokemons
+            </summary>
+            <param name="page"></param>
+            <param name="pageSize"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TecnicaApi.WebApi.Controllers.PokemonsController.EditPokemon(System.Int32,TecnicaApi.Models.PayLoads.Pokemons.PokemonLoad)">
+            <summary>
+            Edita la data de un pokemon
+            </summary>
+            <param name="pokemonId">Id del pokemon</param>
+            <param name="pokemonLoad"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TecnicaApi.WebApi.Controllers.PokemonsController.GetPokemon(System.String)">
+            <summary>
+            Obtiene la informacion de un pokemon
+            </summary>
+            <param name="name"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TecnicaApi.WebApi.Controllers.PokemonsController.DeletePokemon(System.Int32)">
+            <summary>
+            Elimina el pokemon
+            </summary>
+            <param name="pokemonId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:TecnicaApi.WebApi.Controllers.SyncUpController.SyncUpData(System.Int32,System.Int32)">
+            <summary>
+            Sincroniza la data de la base de datos con https://pokeapi.co
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

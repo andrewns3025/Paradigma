@@ -1,0 +1,17 @@
+D:\Personal\Pruebas\Paradigma\TecnicaApi\TecnicaApi.Helpers\bin\Release\net6.0\Message\Message.json
+D:\Personal\Pruebas\Paradigma\TecnicaApi\TecnicaApi.Helpers\bin\Release\net6.0\nlog.config
+D:\Personal\Pruebas\Paradigma\TecnicaApi\TecnicaApi.Helpers\bin\Release\net6.0\TecnicaApi.Helpers.deps.json
+D:\Personal\Pruebas\Paradigma\TecnicaApi\TecnicaApi.Helpers\bin\Release\net6.0\TecnicaApi.Helpers.dll
+D:\Personal\Pruebas\Paradigma\TecnicaApi\TecnicaApi.Helpers\bin\Release\net6.0\TecnicaApi.Helpers.pdb
+D:\Personal\Pruebas\Paradigma\TecnicaApi\TecnicaApi.Helpers\bin\Release\net6.0\TecnicaApi.Models.dll
+D:\Personal\Pruebas\Paradigma\TecnicaApi\TecnicaApi.Helpers\bin\Release\net6.0\TecnicaApi.Models.pdb
+D:\Personal\Pruebas\Paradigma\TecnicaApi\TecnicaApi.Helpers\obj\Release\net6.0\TecnicaApi.Helpers.csproj.AssemblyReference.cache
+D:\Personal\Pruebas\Paradigma\TecnicaApi\TecnicaApi.Helpers\obj\Release\net6.0\TecnicaApi.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Pruebas\Paradigma\TecnicaApi\TecnicaApi.Helpers\obj\Release\net6.0\TecnicaApi.Helpers.AssemblyInfoInputs.cache
+D:\Personal\Pruebas\Paradigma\TecnicaApi\TecnicaApi.Helpers\obj\Release\net6.0\TecnicaApi.Helpers.AssemblyInfo.cs
+D:\Personal\Pruebas\Paradigma\TecnicaApi\TecnicaApi.Helpers\obj\Release\net6.0\TecnicaApi.Helpers.csproj.CoreCompileInputs.cache
+D:\Personal\Pruebas\Paradigma\TecnicaApi\TecnicaApi.Helpers\obj\Release\net6.0\TecnicaApi.Helpers.csproj.CopyComplete
+D:\Personal\Pruebas\Paradigma\TecnicaApi\TecnicaApi.Helpers\obj\Release\net6.0\TecnicaApi.Helpers.dll
+D:\Personal\Pruebas\Paradigma\TecnicaApi\TecnicaApi.Helpers\obj\Release\net6.0\refint\TecnicaApi.Helpers.dll
+D:\Personal\Pruebas\Paradigma\TecnicaApi\TecnicaApi.Helpers\obj\Release\net6.0\TecnicaApi.Helpers.pdb
+D:\Personal\Pruebas\Paradigma\TecnicaApi\TecnicaApi.Helpers\obj\Release\net6.0\ref\TecnicaApi.Helpers.dll

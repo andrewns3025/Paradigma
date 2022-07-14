@@ -1,0 +1,14 @@
+{
+    "urlApi": "http://localhost:5137/api",
+    "urlPokemon": "https://pokeapi.co/api/v2",
+    "OriginCors": "http://localhost:3000",
+    "NameApp": "PruebaTecnica",
+    "ConfigMicrosoft":{
+        "clientId": "7f7d4c4e-c0a5-4b1a-9c6d-c9a16ee5558f",
+        "authority": "https://login.microsoftonline.com/common",
+        "redirectUri": "http://localhost:3000/login",
+        "postLogoutRedirectUri": "http://localhost:3000/login",        
+        "cacheLocation": "localStorage",
+        "logDebug": false
+    }
+}

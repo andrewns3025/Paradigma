@@ -1,0 +1,204 @@
+Punto A:
+ I. Azure
+
+Punto B: 
+
+* Generacion de product backlog
+
+- Arquitectura del webapi
+- Arquitectura del Frontend
+- Autenticacion B2C con microsft desde el Frontend
+- Servicio webapi login
+- Tablas sql server
+- Servicio de sincronizacion con https://pokeapi.co
+- Servicio pokemon
+- Componente home
+- Componente pokemons
+- Componente pokemon
+- Componente edit-pokemon
+- Componente video-youtube
+- Docker webapi
+- Docker Frontend
+
+* Sprint Planning
+
+Sptrint 0
+- Arquitectura del webapi
+
+|Tarea|
+|Creacion de arquitectura del webapi|
+
+|Estimacion|
+|2H|
+
+- Arquitectura del Frontend
+
+|Tarea|
+|Creacion de arquitectura del Frontend|
+
+|Estimacion|
+|2H|
+
+- Autenticacion B2C con microsft desde el Frontend
+
+|Tarea|
+|Creacion de configuracion MSAL del aplicativo en microsoft|
+
+|Estimacion|
+|1H|
+
+|Tarea|
+|Implentar MSAL|
+
+|Estimacion|
+|2H|
+
+|Tarea|
+|Creacion de componente login|
+
+|Estimacion|
+|2H|
+
+- Servicio webapi login
+
+|Tarea|
+|Creacion de dataProvider para consumir el graph con el token generado por microsft|
+
+|Estimacion|
+|1H|
+
+|Tarea|
+|Creacion de token Jwt para el webapi|
+
+|Estimacion|
+|3H|
+
+
+- Tablas sql server
+
+|Tarea|
+|Creacion de tabla AndrewNorenaPokemonlist|
+
+|Estimacion|
+|1H|
+
+|Tarea|
+|Crear Entidad de la tabla AndrewNorenaPokemonlist|
+
+|Estimacion|
+|1H|
+
+- Servicio de sincronizacion con https://pokeapi.co
+
+|Tarea|
+|Creacion de dataProvider para consurmir las apis de pokeapi|
+
+|Estimacion|
+|1H|
+
+|Tarea|
+|Creacion de modelos de pokeapi |
+
+|Estimacion|
+|2H|
+
+|Tarea|
+|Implentacion de logica de sincronizacion de la data|
+
+|Estimacion|
+|4H|
+
+- Servicio pokemon
+
+|Tarea|
+|Crear servicio web api Pokemon|
+
+|Estimacion|
+|1H|
+
+
+|Tarea|
+|Crear metodo que obtiene la lista de pokemons de la base de datos|
+
+|Estimacion|
+|2H|
+
+|Tarea|
+|Crear metodo que modifica el pokemon en la base datos|
+
+|Estimacion|
+|2H|
+
+|Tarea|
+|Crear metodo que obtiene la informacion del pokemon por id de la base de datos|
+
+|Estimacion|
+|2H|
+
+|Tarea|
+|Crear metodo que elimina el pokemon por id en la base de datos|
+
+|Estimacion|
+|2H|
+
+- Componente home
+
+|Tarea|
+|Crear componente home|
+
+|Estimacion|
+|1H|
+
+- Componente pokemons
+
+|Tarea|
+|Crear componente pokemons|
+
+|Estimacion|
+|1H|
+
+- Componente pokemon
+
+|Tarea|
+|Crear componente pokemon|
+
+|Estimacion|
+|1H|
+
+- Componente edit-pokemon
+
+|Tarea|
+|Crear componente edit-pokemon|
+
+|Estimacion|
+|1H|
+
+- Componente video-youtube
+
+|Tarea|
+|Crear componente video-youtube|
+
+|Estimacion|
+|1H|
+
+- Docker webapi
+
+|Tarea|
+|Creacion de recetas docker|
+
+|Estimacion|
+|1H|
+
+- Docker Frontend
+
+|Tarea|
+|Creacion de recetas docker|
+
+|Estimacion|
+|1H|
+
+* Ejecuccion del sprint 0
+
+- Se realizan dailys
+
+
